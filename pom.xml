@@ -5,8 +5,13 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>gov.va.api.health</groupId>
-	<artifactId>provider-directory</artifactId>
+	<artifactId>provider-directory-parent</artifactId>
+	<packaging>pom</packaging>
 	<version>1.0.0-SNAPSHOT</version>
+	<modules>
+		<module>provider-directory</module>
+		<module>provider-directory-api</module>
+	</modules>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

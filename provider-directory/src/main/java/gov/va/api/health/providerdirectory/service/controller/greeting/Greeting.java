@@ -1,4 +1,4 @@
-package gov.va.api.health;
+package gov.va.api.health.providerdirectory.service.controller.greeting;
 
 public class Greeting {
 

@@ -1,4 +1,4 @@
-package gov.va.api.health;
+package gov.va.api.health.providerdirectory.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
